@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+}
+.page {
+  border: 1px solid red;
+
+  padding: 88px;
+  margin: 80px;
+}
